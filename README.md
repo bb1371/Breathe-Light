@@ -1,4 +1,4 @@
-# LED Anxiety Bracelet with Heart Rate Monitor
+# LED "Breathe Light" Anxiety Device with Heart Rate Monitor
 
 This project was created on April 28, 2020 by Bryson Boettger and Emma Vogan for the 
 ENGR 375 Biomedical Instrumentation and Measurement Biosensor Project in the Messiah College department of Engineering
